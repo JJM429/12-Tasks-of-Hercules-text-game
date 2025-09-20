@@ -10,3 +10,7 @@ I took full ownership of the project lifecycle, from concept design and planning
 * Iterative improvements based on testing and feedback to ensure smooth gameplay and user engagement.
 
 This project strengthened my skills in Java, OOP, debugging, and project management, while allowing me to channel creativity into both the narrative design and technical implementation. Delivering a complete, playable game to a high standard reinforced my ability to see ambitious projects through from start to finish.
+
+**How to run:**
+
+Run the game with the run.sh script.
