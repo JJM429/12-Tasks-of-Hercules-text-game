@@ -13,4 +13,4 @@ This project strengthened my skills in Java, OOP, debugging, and project managem
 
 **How to run:**
 
-Run the game with the run.sh script.
+Clone the repo and run the game with the run.sh script.
