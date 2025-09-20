@@ -1,4 +1,4 @@
-# 12-Tasks-of-Hercules-text-game
+# 12 Tasks of Hercules text-based game
 This project is a Java text-based adventure game inspired by the legendary 12 Tasks of Hercules. Players progress through a series of interactive challenges, each designed to test problem-solving, resource management, and strategic decision-making.
 
 I took full ownership of the project lifecycle, from concept design and planning to coding, debugging, and final polish. The game features:
