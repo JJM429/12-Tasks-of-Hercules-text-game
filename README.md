@@ -5,7 +5,7 @@ I took full ownership of the project lifecycle, from concept design and planning
 
 * Object-Oriented Programming principles applied to manage tasks, gameplay logic, and user input.
 
-* A multi-stage progression system with branching paths and increasing complexity.
+* A multi-stage progression, with a scoring system.
 
 * Iterative improvements based on testing and feedback to ensure smooth gameplay and user engagement.
 
