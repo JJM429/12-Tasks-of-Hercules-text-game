@@ -7,6 +7,8 @@ You can play this game instantly on your machine without installing Java or comp
 
 **Prerequisite:** [Docker Desktop](https://www.docker.com/products/docker-desktop) must be running.
 
+[![Docker Image Size](https://img.shields.io/docker/image-size/jamiemottashed/12-tasks-of-hercules-text-game/latest)](https://hub.docker.com/r/jamiemottashed/12-tasks-of-hercules-text-game)
+
 Run this command in your terminal:
 
 ```bash
